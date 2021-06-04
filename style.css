@@ -45,21 +45,21 @@
   }
 
 
-.skills-container {
+  .skills-container {
     background-color: #EEE2DC;
     padding: 60px;
     justify-content: center;
 
 }
 
-.skills {
+  .skills {
     padding: 30px;
     font-family:  Georgia, Arial, sans-serif;
     color: #AC3B61;
      }
  
 
-.footer {
+  .footer {
     position: fixed;
     bottom: 0;
     width: 100%;
@@ -69,18 +69,16 @@
     font-size: large;
  }
 
- .repo {
+  .repo {
     display: flex;
     font-size: small;
     font-family: Georgia, Arial, sans-serif;
     justify-content: center;
 }
 
-button {
-  border-radius: 50%;
-  color: #AC3B61;
-  border-color: #AC3B61;
-  font-size: large;
-  
-
+  button {
+   border-radius: 50%;
+    color: #AC3B61;
+    border-color: #AC3B61;
+   font-size: large;
 }
