@@ -7,7 +7,7 @@
  
 
   .head-container {
-    color:#123C69;
+    color:#3c6129;
     background-image: linear-gradient(#EDC7B7, #EEE2DC);
     padding: 10px;
     display: flex;
@@ -48,13 +48,11 @@
 .skills-container {
     background-color: #EEE2DC;
     padding: 60px;
-    display: flex;
     justify-content: center;
 
 }
 
 .skills {
-    width: 1800px;
     padding: 30px;
     font-family:  Georgia, Arial, sans-serif;
     color: #AC3B61;
@@ -75,6 +73,7 @@
     display: flex;
     font-size: small;
     font-family: Georgia, Arial, sans-serif;
+    justify-content: center;
 }
 
 button {
@@ -82,5 +81,6 @@ button {
   color: #AC3B61;
   border-color: #AC3B61;
   font-size: large;
+  
 
 }
